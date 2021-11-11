@@ -10,7 +10,7 @@ This is a full-stack weather app built with React, Express, and the [OpenWeather
 - 5-day weather forecast displaying weather icon, high/low temperature, humidity, wind speed, etc.
 - Responsive design using [Ant Design Library](https://ant.design/docs/react/introduce)
 
-# Getting Started with Create React App
+## Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
