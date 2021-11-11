@@ -1,0 +1,14 @@
+@import "~antd/dist/antd.css";
+
+.App {
+  text-align: center;
+}
+
+.site-layout-content {
+  text-align: center;
+}
+
+.input-city {
+  width: 200px;
+  margin: 10px;
+}
