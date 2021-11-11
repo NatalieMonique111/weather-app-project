@@ -94,20 +94,21 @@ function Forecast() {
   } else {
     return (
       <>
-        <Input
-          className="input-city"
-          placeholder="Enter City"
-          value={input}
-          onChange={(e) => setInput(e.target.value)}
-          onPressEnter={(e) => setCity(e.target.value)}
-        />
-        <Button type="primary" onClick={(e) => setCity(input)}>
-          Submit
-        </Button>
-
+        <section>
+          <Input
+            className="input-city"
+            placeholder="Enter City"
+            value={input}
+            onChange={(e) => setInput(e.target.value)}
+            onPressEnter={(e) => setCity(e.target.value)}
+          />
+          <Button type="primary" onClick={(e) => setCity(input)}>
+            Submit
+          </Button>
+        </section>
         <div
           className="site-layout-content"
-          style={{ minHeight: 380, marginLeft: "10vw", paddingBottom: "15%" }}
+          style={{ minHeight: 380, marginLeft: "15vw", paddingBottom: "15%" }}
         >
           <br />
           <Row gutter={8}>
