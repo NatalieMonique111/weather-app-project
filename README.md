@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a full-stack weather app built with React, Express, and the [OpenWeather API](https://openweathermap.org/api).
+This is a React app that uses the [OpenWeather API](https://openweathermap.org/api).
 
 ## OpenWeather API
 
