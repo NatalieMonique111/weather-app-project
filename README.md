@@ -4,6 +4,8 @@
 
 This is a React app that uses the [OpenWeather API](https://openweathermap.org/api).
 
+<img src="img/weather.png">
+
 ## OpenWeather API
 
 1.  [Apply for a free OpenWeather API key](https://openweathermap.org/api).
